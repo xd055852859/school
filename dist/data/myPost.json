@@ -1,0 +1,31 @@
+[{
+    "id": "1",
+    "imageUrl": "/image/school-1.png",
+    "schoolId": "school1",
+    "schoolName": "觅渡桥小学",
+    "areaId": "area1",
+    "areaName": "钟楼区",
+    "teacherId": "teacher2",
+    "teacherName": "129",
+    "classroomId": "classroom5",
+    "classroomName": "72",
+    "honorId": "honor1",
+    "honorName": "江苏省实验小学",
+    "date": "创办于1841年,中国共产党早期领导人瞿秋白的母校，解放后受到各级党政领导的重视和关心",
+    "state": "1"
+}, {
+    "id": "2",
+    "imageUrl": "/image/school-2.png",
+    "schoolId": "school2",
+    "schoolName": "局前街小学",
+    "areaId": "area2",
+    "areaName": "天宁区",
+    "teacherId": "teacher1",
+    "teacherName": "93",
+    "classroomId": "classroom1",
+    "classroomName": "37",
+    "honorId": "honor2",
+    "honorName": "常州市一流的省级实验小学、省级模范小学",
+    "date": "明隆庆六年（1572年）由常州知府施观民创建的龙城书院，为常州城区规模最大、最为著名的书院光绪二十八年即1902年，龙城书院改名为“武阳公立两等小学堂”。2017年8月入选第一届全国文明校园",
+    "state": "-1"
+}]

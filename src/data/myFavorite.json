@@ -1,0 +1,18 @@
+[
+  {
+    "id": "1",
+    "imageUrl": "/image/school-1.png",
+    "schoolId": "school1",
+    "schoolName": "觅渡桥小学",
+    "areaId": "area1",
+    "areaName": "钟楼区",
+    "teacherId": "teacher2",
+    "teacherName": "129",
+    "classroomId": "classroom5",
+    "classroomName": "72",
+    "honorId": "honor1",
+    "honorName": "江苏省实验小学",
+    "date": "创办于1841年,中国共产党早期领导人瞿秋白的母校，解放后受到各级党政领导的重视和关心",
+    "select": true
+  }
+]

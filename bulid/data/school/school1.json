@@ -1,0 +1,35 @@
+{
+    "id": "2",
+    "imageUrl": "/image/school-2.png",
+    "schoolId": "school2",
+    "schoolName": "局前街小学",
+    "areaId": "area2",
+    "areaName": "天宁区",
+    "scaleId": "scale2",
+    "scaleName": "93名教职工",
+    "honorId": "honor2",
+    "honorName": "常州市一流的省级实验小学、省级模范小学",
+    "date": "明隆庆六年（1572年）由常州知府施观民创建的龙城书院，为常州城区规模最大、最为著名的书院光绪二十八年即1902年，龙城书院改名为“武阳公立两等小学堂”。2017年8月入选第一届全国文明校园",
+    "positionClass": [{
+      "id": "laoshi",
+      "name": "老师",
+      "positionList": [{
+        "id": "l1",
+        "name": "高级教师",
+        "number": "13位"
+      },{
+        "id": "l2",
+        "name": "普通教师",
+        "number": "80位"
+      }]
+    }, {
+      "id": "banji",
+      "name": "班级",
+      "positionList": [{
+        "id": "b1",
+        "name": "教学班",
+        "number": "37个"
+      }]
+    }]
+}
+

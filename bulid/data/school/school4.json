@@ -1,0 +1,34 @@
+{
+    "id": "5",
+    "imageUrl": "/image/school-5.png",
+    "schoolId": "school5",
+    "schoolName": "三井小学",
+    "areaId": "area3",
+    "areaName": "新北区",
+    "scaleId": "scale5",
+    "scaleName": "200位教职工",
+    "honorId": "honor4",
+    "honorName": "常州市现代教育技术实验学校,常州高新区（新北区）科技教育特色学校",
+    "date": " 江苏省爱国卫生先进单位中国书法字画特色学校,江苏省平安校园,全国书香校园示范基地,全国青少年手球运动传统学校,常州市中小学生命教育项目学校,常州市现代教育技术实验学校,常州日报小记者苑,家庭教育实验基地,常州高新区（新北区）科技教育特色学校",
+    "positionClass": [{
+      "id": "laoshi",
+      "name": "老师",
+      "positionList": [{
+        "id": "l1",
+        "name": "高级教师",
+        "number": "20位"
+      },{
+        "id": "l2",
+        "name": "普通教师",
+        "number": "180位"
+      }]
+    }, {
+      "id": "banji",
+      "name": "班级",
+      "positionList": [{
+        "id": "b1",
+        "name": "教学班",
+        "number": "55个"
+      }]
+    }]
+}

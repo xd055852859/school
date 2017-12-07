@@ -1,0 +1,35 @@
+{
+    "id": "4",
+    "imageUrl": "/image/school-4.png",
+    "schoolId": "school4",
+    "schoolName": "博爱路小学",
+    "areaId": "area2",
+    "areaName": "天宁区",
+    "scaleId": "scale4",
+    "scaleName": "198名教职工",
+    "honorId": "honor4",
+    "honorName": "常州市第一批省级实验小学",
+    "date": "常州市博爱小学创办于1927年，系常州市第一批省级实验小学。三校区共有82个教学班，3558名学生，198名教师，省、市五类优秀教师38名。还涌现了包括“全国优秀教师”、“省德育工作先进个人”、 “华英基金奖”等在内的一大批先进工作者，为市、区培养输送了多名优秀骨干教师。",
+    "positionClass": [{
+      "id": "laoshi",
+      "name": "老师",
+      "positionList": [{
+        "id": "l1",
+        "name": "高级教师",
+        "number": "38位"
+      },{
+        "id": "l2",
+        "name": "普通教师",
+        "number": "160位"
+      }]
+    }, {
+      "id": "banji",
+      "name": "班级",
+      "positionList": [{
+        "id": "b1",
+        "name": "教学班",
+        "number": "82个"
+      }]
+    }]
+}
+
